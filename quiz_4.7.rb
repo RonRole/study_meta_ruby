@@ -14,4 +14,4 @@ end
 
 @env = Object.new
 
-load('events')
+load('quiz_4.7_events')
